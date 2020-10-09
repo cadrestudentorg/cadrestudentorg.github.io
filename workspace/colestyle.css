@@ -41,10 +41,12 @@ body > .container
     background-color: white;
 }
 
-.artwork
+.content
 {
     width: 80%;
     margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 img
@@ -53,6 +55,11 @@ img
     
     width: 100%;
     margin: auto;
+}
+
+h2
+{
+    text-align: center;
 }
 
 /* helpers */
